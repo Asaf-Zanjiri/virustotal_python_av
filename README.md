@@ -28,6 +28,10 @@ This application is not secure, it does not verify who it talks to and if the in
 - Smile :)
 - Run server and then client. If there are errors try changing the server & client's port.
 
+**Log file example:**
+![image](https://user-images.githubusercontent.com/60044819/149026464-cec73df6-9d97-4911-9f97-8a68d7012e6d.png)
+
+
 
 **Credits:**
 
