@@ -10,7 +10,7 @@ VT_SCAN_URL = 'https://www.virustotal.com/vtapi/v2/file/scan'
 VT_REPORT_URL = 'https://www.virustotal.com/vtapi/v2/file/report'
 API_KEY = 'EDIT_ME'
 VT_MAX_FILESIZE = 32000000
-SCAN_WAIT_TIME = 50
+SCAN_WAIT_TIME = 65
 
 
 def md5(file_path):
