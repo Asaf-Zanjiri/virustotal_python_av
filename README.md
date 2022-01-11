@@ -28,7 +28,9 @@ This application is not secure, it does not verify who it talks to and if the in
 - Smile
 - Run server and then client. If there are errors try changing the server & client's port.
 
+
 **Credits:**
+
 timgolden - http://timgolden.me.uk/python/win32_how_do_i/watch_directory_for_changes.html
 For an example on how to listen to directory changes via python.
 
