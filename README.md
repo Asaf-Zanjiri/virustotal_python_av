@@ -26,7 +26,7 @@ This application is not secure, it does not verify who it talks to and if the in
 - Edit the PATH_TO_WATCH & PATH_TO_LOG constants in client.py
 - Edit the API_KEY constant in server.py
 - Smile :)
-- Run server and then client. If there are errors try changing the server & client's port.
+- Run server and then client. If there are errors try changing the server & client's port/increasing the wait for result wait time constant.
 
 
 **Log file example:**
